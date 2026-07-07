@@ -1,10 +1,9 @@
 # Representation Learning
-The following repository contains implementation of some SOTA models from each generation *(in terms of model developments)* on 
-image representation learning. 
+The following repository contains implementation of papers on representation learning from very fundamental to current models. 
 
 
 ## Classic Representation Learning
-1. [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
+- [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
 
 ## Contrastive Learning Foundation
 ## Birth of Modern SSL
