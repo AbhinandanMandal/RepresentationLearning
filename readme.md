@@ -4,10 +4,7 @@ image representation learning.
 
 
 ## Classic Representation Learning
-- [ ] Autoencoders
-- [ ] Sparse Autoencoders
-- [ ] Denoising Autoencoders
-- [ ] Variational Autoencoders
+1. [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
 
 ## Contrastive Learning Foundation
 ## Birth of Modern SSL
