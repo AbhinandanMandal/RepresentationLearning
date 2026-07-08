@@ -3,7 +3,7 @@ The following repository contains implementation of papers on representation lea
 
 
 ## Classic Representation Learning
-- [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
+- [x] [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) 
 
 ## Contrastive Learning Foundation
 ## Birth of Modern SSL
