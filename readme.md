@@ -1,4 +1,4 @@
-# Representation Learning
+# Representation Learning Paper Implementation
 The following repository contains implementation of papers on representation learning from very fundamental to current models. 
 
 
