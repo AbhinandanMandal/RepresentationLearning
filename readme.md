@@ -3,16 +3,14 @@ The following repository contains implementation of papers on representation lea
 
 
 
-## Implemented Papers
-| Genre | Papers |
-|-------|--------|
-| Classic Representation Learning | <ul><li><a href="https://www.cs.toronto.edu/~hinton/absps/science.pdf">Autoencoders: Reducing the Dimensionality of Data with Neural Networks</a></li><li><a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">CS294A Sparse Autoencoder Notes by Andrew Ng</a></li></ul> |
-| Contrastive Learning Foundation |    |
-| Birth of Modern SSL |     |
-| The Big SSL Explosion |      |
-| Transformer Era SSL |       |
-| Multimodal Representation Learning |     |
-| Currnet Frontier Models |        |
-
+| Genre | Implemented Papers |
+|-------|---------------------|
+| **Classic Representation Learning** | • [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf)<br>• [CS294A Sparse Autoencoder Notes by Andrew Ng](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)<br>• [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) |
+| **Contrastive Learning Foundation** | — |
+| **Birth of Modern Self-Supervised Learning** | — |
+| **The Big SSL Explosion** | — |
+| **Transformer Era SSL** | — |
+| **Multimodal Representation Learning** | — |
+| **Current Frontier Models** | — |
 
 
